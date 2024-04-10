@@ -6,7 +6,7 @@ export const Login = () => {
             <h1>You are logged in!</h1>
             <br />
             <p>
-                <a href="#">Go to Home</a>
+                <a href="/home">Go to Home</a>
             </p>
             <h1>Sign In</h1>
             <form>
